@@ -6,7 +6,7 @@ The link to the paper:  [DiffusionTalker: Personalization and Acceleration for S
   <b>
     <a href="https://arxiv.org/abs/2311.16565">Paper</a>
     | 
-    <a href="https://github.com/ChenVoid/DiffusionTalker">Project Page</a>
+    <a href="https://chenvoid.github.io/DiffusionTalker/">Project Page</a>
     |
     <a href="https://github.com/ChenVoid/DiffusionTalker">Code</a> 
   </b>
