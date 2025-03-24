@@ -1,4 +1,15 @@
 # DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation
+[DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation](./static/files/DiffusionTalker.pdf)  
+[Peng Chen](https://chenvoid.github.io/), [Xiaobao Wei](https://ucwxb.github.io/), [Ming Lu](https://lu-m13.github.io/), Hui Chen $^\dagger$ , Feng Tian  
+ICME2025 Main Conference Paper  
+$\dagger$ Corresponding author
+
+![vis](./static/images/teaser.png)
+We propose DiffusionTalker, a diffusion-based method that utilizes contrastive personalizer to generate personalized 3D facial animation and personalizer-guided distillation for acceleration and compression.
+
+## News
+
+- **[2025/03/21]** DiffusionTalker is accepted by ICME2025!
 
 ## Overview
 
