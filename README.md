@@ -1,8 +1,8 @@
 # DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation
 > [DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation](https://arxiv.org/abs/2503.18159)  
 > Peng Chen, [Xiaobao Wei](https://ucwxb.github.io/), [Ming Lu](https://lu-m13.github.io/), Hui Chen $^\dagger$ , Feng Tian  
-> ICME2025 Main Conference Paper
-> [[Project](https://diffusiontalker.github.io/)] / [[Paper](https://arxiv.org/abs/2503.18159)]
+> ICME2025 Main Conference Paper  
+> [[Project](https://diffusiontalker.github.io/)] / [[Paper](https://arxiv.org/abs/2503.18159)]  
 > $\dagger$ Corresponding author
 
 ![vis](./static/images/teaser.png)
