@@ -3,8 +3,7 @@
 > Peng Chen, [Xiaobao Wei](https://ucwxb.github.io/), [Ming Lu](https://lu-m13.github.io/), Hui Chen $^\dagger$ , Feng Tian  
 > ICME2025 Main Conference Paper  
 > $\dagger$ Corresponding author
-
-[[Project](https://diffusiontalker.github.io/)] / [[Paper](https://arxiv.org/abs/2503.18159)]
+> [[Project](https://diffusiontalker.github.io/)] / [[Paper](https://arxiv.org/abs/2503.18159)]
 
 ![vis](./static/images/teaser.png)
 We propose DiffusionTalker, a diffusion-based method that utilizes contrastive personalizer to generate personalized 3D facial animation and personalizer-guided distillation for acceleration and compression.
